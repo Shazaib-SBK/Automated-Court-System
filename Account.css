@@ -1,0 +1,86 @@
+.join-text{
+    
+    position: absolute;
+    width: 756px;
+    height: 0px;
+    left: 720px;
+    top: 165px;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 116px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+}
+  
+.btn{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 1900px;
+    top: 20px;
+  }
+  
+.btn a {
+    color: inherit;
+    text-decoration: none;
+    padding: 1rem;
+}
+.btn a:hover{
+    color: #fcf9f9;
+}
+
+.first-text{
+    position: absolute;
+    width: 808px;
+    height: 131px;
+    left: 90px;
+    top: 381px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+}
+
+.second-text{
+    position: absolute;
+    width: 808px;
+    height: 131px;
+    left: 90px;
+    top: 512px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+}
+
+
+.third-text{
+    position: absolute;
+    width: 808px;
+    height: 131px;
+    left: 90px;
+    top: 657px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+}
+
+
+.fourth-text{
+    position: absolute;
+    width: 808px;
+    height: 400px;
+    left: 90px;
+    top: 657px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+}

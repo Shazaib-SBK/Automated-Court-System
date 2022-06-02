@@ -1,0 +1,115 @@
+.join-text{
+    position: absolute;
+    width: 1204px;
+    height: 0px;
+    left: 503px;
+    top: 120px;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 116px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btn{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 1900px;
+    top: 20px;
+}
+  
+.btn a {
+    color: inherit;
+    text-decoration: none;
+    padding: 1rem;
+}
+.btn a:hover{
+    color: #fcf9f9;
+}
+
+*{
+    box-sizing: border-box;
+}
+  
+.app{
+    position: absolute;
+    width: 222px;
+    height: 211px;
+    left: 265px;
+    top: 477px;
+}
+
+.Lawyer{
+    position: absolute;
+    width: 222px;
+    height: 211px;
+    left: 831px;
+    top: 477px;
+}
+
+.Staff{
+    position: absolute;
+    width: 222px;
+    height: 211px;
+    left: 1441px;
+    top: 477px;
+}
+
+.app-text{
+    position: absolute;
+    width: 193px;
+    height: 56px;
+    left: 272px;
+    top: 722px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+  
+.lawyer-text{
+    position: absolute;
+    width: 285px;
+    height: 56px;
+    left: 825px;
+    top: 722px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+}
+
+.lawyer-text a{
+    color:inherit;
+    text-decoration: none;
+    padding: 1rem;
+}
+  
+.staff-text{
+    position: absolute;
+    width: 193px;
+    height: 56px;
+    left: 1465px;
+    top: 722px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}

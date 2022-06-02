@@ -1,0 +1,192 @@
+.join-text{
+  position: absolute;
+  width: 542px;
+  height: 133px;
+  left: 800px;
+  top: 20px;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 116px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.btn{
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  left: 1900px;
+  top: 20px;
+}
+
+.btn a {
+  color: inherit;
+  text-decoration: none;
+  padding: 1rem;
+}
+.btn a:hover{
+  color: #fcf9f9;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.profile{
+  position: absolute;
+  width: 235px;
+  height: 217px;
+  left: 263px;
+  top: 299px;
+}
+
+.cases{
+  position: absolute;
+  width: 219px;
+  height: 217px;
+  left: 900px;
+  top: 299px;
+}
+
+.consult{
+  position: absolute;
+  width: 240px;
+  height: 206px;
+  left: 1600px;
+  top: calc(50% - 206px/2 - 138px);
+}
+
+.notification{
+  position: absolute;
+  width: 235px;
+  height: 211px;
+  left: 263px;
+  top: 672px;
+}
+
+.complaint{
+  position: absolute;
+  width: 230px;
+  height: 228px;
+  left: 900px;
+  top: 655px;
+}
+
+.guide{
+  position: absolute;
+  width: 222px;
+  height: 211px;
+  left: 1600px;
+  top: 672px;
+}
+
+.row1::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row2::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.profile-text{
+  position: absolute;
+  width: 181px;
+  height: 65px;
+  left: 285px;
+  top: 540px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.cases-text{
+  position: absolute;
+  width: 160px;
+  height: 56px;
+  left: 960px;
+  top: 540px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.consult-text{
+  position: absolute;
+  width: 196px;
+  height: 56px;
+  left: 1630px;
+  top: 540px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.notification-text{
+  position: absolute;
+  width: 186px;
+  height: 10px;
+  left: 310px;
+  top: 924px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.complaint-text{
+  position: absolute;
+  width: 191px;
+  height: 5px;
+  left: 945px;
+  top: 929px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.complaint-text a{
+  color: inherit;
+  text-decoration: none;
+  padding: 1rem;
+}
+.guide-text{
+  position: absolute;
+  width: 193px;
+  height: 15px;
+  left: 1630px;
+  top: 921px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.guide-text a{
+  color: inherit;
+  text-decoration: none;
+  padding: 1rem;
+}
